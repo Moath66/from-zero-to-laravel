@@ -115,6 +115,8 @@ php artisan serve
 ## 👨‍🎓 Developer Info
 
 **Name:** Moath Mohamed Abdalla Hassan Morsy
+
 **Role:** Aspiring Backend Developer (Laravel & PHP)
+
 **Current Status:** Internship at Advanced Knowledge Gate (AKG)
 
