@@ -1,5 +1,5 @@
 
-# 🚀 From Zero to Laravel – Self-Learning Journey
+# 🚀 From Zero to Laravel 
 
 A structured journey to learn **PHP and Laravel** from scratch through self-study, practice, and mini-projects. The repository documents code, notes, and progress as I transition from beginner to backend-ready developer.
 
@@ -8,7 +8,7 @@ A structured journey to learn **PHP and Laravel** from scratch through self-stud
 ## 📚 Learning Path
 
 * **Course Type**: Self-Education (Online tutorials, documentation, and practice)
-* **Goal**: Build proficiency in **Laravel backend development** to become job-ready.
+* **Goal**: Build proficiency in **Laravel backend development**.
 * **Mentorship**: Guided by internship supervisor for task-based learning and review.
 
 ---
