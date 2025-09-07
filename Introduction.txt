@@ -1,0 +1,31 @@
+PHP-LARAVEL
+
+
+php is general purpose language useafor web development to build dynamic web site with writing repetitive code that cover routing , authentication , and database interaction.
+
+while Larvel is a PHP framwkork that follow MVC arckitecture to make web develpment faster and easier by providing built-in tools and libraries for common tasks like routing, authentication, and database management.
+
+some good resources to Leren PHP and Laravel:
+
+
+
+
+https://laracasts.com/?coupon=&modal=join-modal&registered=1
+
+
+https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel/?couponCode=PMNVD3025
+
+https://codecourse.com/
+
+https://laravel.com/docs/12.x/installation
+
+
+
+MY SQL 
+
+
+LEMP
+
+
+
+BACKEND 
