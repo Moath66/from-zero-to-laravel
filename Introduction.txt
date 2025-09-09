@@ -1,4 +1,4 @@
-PHP-LARAVEL
+##PHP-LARAVEL
 
 
 php is general purpose language useafor web development to build dynamic web site with writing repetitive code that cover routing , authentication , and database interaction.
@@ -21,11 +21,16 @@ https://laravel.com/docs/12.x/installation
 
 
 
-MY SQL 
+##MY SQL (Structured Query Language)
 
+is opened source relationship (organizes data into structured tables consisting of rows and columns)database management system that use SQL Langauage to mange and manpulate data in database.
 
-LEMP
+##LEMP
 
+Is a powerful stack of software that is commenly used for web development and hosring dynamic web applications. LEMP stands for Linux Operating System ,Naginx web server , MySQL database mangement system , and PHP porgranning Language for server .
 
+##BACKEND 
 
-BACKEND 
+Focus on server-side managing logic ,database interaction to process and store data like MySQL ,APIs (Application Programming Langauage) that commmunicate frontend with backend  , and web server configuration to process the request.
+
+It recieves requests from the frontend and process them to send backend responses to the frontend 
