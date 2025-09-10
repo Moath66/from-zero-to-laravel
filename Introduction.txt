@@ -5,13 +5,11 @@ php is general purpose language useafor web development to build dynamic web sit
 
 while Larvel is a PHP framwkork that follow MVC arckitecture to make web develpment faster and easier by providing built-in tools and libraries for common tasks like routing, authentication, and database management.
 
-some good resources to Leren PHP and Laravel:
 
-
+Here are good resources to Leren PHP and Laravel:
 
 
 https://laracasts.com/?coupon=&modal=join-modal&registered=1
-
 
 https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel/?couponCode=PMNVD3025
 
@@ -20,14 +18,15 @@ https://codecourse.com/
 https://laravel.com/docs/12.x/installation
 
 
-
 ##MY SQL (Structured Query Language)
 
 is opened source relationship (organizes data into structured tables consisting of rows and columns)database management system that use SQL Langauage to mange and manpulate data in database.
 
+
 ##LEMP
 
 Is a powerful stack of software that is commenly used for web development and hosring dynamic web applications. LEMP stands for Linux Operating System ,Naginx web server , MySQL database mangement system , and PHP porgranning Language for server .
+
 
 ##BACKEND 
 

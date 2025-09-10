@@ -64,7 +64,7 @@ Phase 1: Setup & Basics (Week 1)
 
 Windows/Mac Local Environment Setup (?)
 
-Git & GitHub – Version Control (start early) (?)
+Git & GitHub – Version Control (start early) (✅)
 
 Laravel Fundamentals:
 
