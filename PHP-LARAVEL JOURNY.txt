@@ -58,11 +58,11 @@ Explain your process:
 
 PLAN:
 
-Phase 1: Setup & Basics (Week 1)
+Phase 1: Setup & Laravel Fundamentals (Week 1)
 
 ✅ Goal: Have a working environment and understand Laravel core structure.
 
-Windows/Mac Local Environment Setup (?)
+Windows/Mac Local Environment Setup (✅)
 
 Git & GitHub – Version Control (start early) (✅)
 

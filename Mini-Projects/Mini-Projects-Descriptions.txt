@@ -1,0 +1,37 @@
+multi-page-site         → A basic Laravel site with multiple pages (Home, About, Contact) using routes, controllers, and Blade templates.
+
+library-system          → A simple library system built in pure PHP (no framework), managing Books, Members, and Borrowing with OOP.
+
+oop-crud-demo           → Demonstrates CRUD operations using pure PHP classes (Book, Member, Loan) to practice OOP concepts.
+
+blog-app                → A blog application with Posts, Categories, and Users, showing Eloquent relationships.
+
+auth-system             → A user registration and login system using Laravel authentication features.
+
+profile-upload          → Adds profile picture upload functionality with file validation and storage.
+
+auth-middleware         → Demonstrates protecting routes with authentication middleware (only logged-in users can view certain pages).
+
+flash-messages          → Uses Laravel sessions to show flash messages (like “Post Created Successfully”).
+
+blog-api                → Adds RESTful API endpoints for blog posts (e.g., /api/posts).
+
+email-confirmation      → Sends confirmation email after user registration using Laravel’s mail system.
+
+task-manager-api        → A RESTful API for managing tasks with CRUD operations.
+
+task-crud               → Routes: /api/tasks → list, create, update, delete tasks (CRUD).
+
+sanctum-auth            → Implements token-based authentication using Laravel Sanctum.
+
+api-tests               → Contains automated tests for API endpoints (e.g. “Can a user create a post?”) using PHPUnit.
+
+role-cms                → A role-based CMS: Admin can manage users & posts, normal users can manage their own profiles.
+
+admin-panel             → Admin dashboard interface to manage users, posts, and settings.
+
+user-panel              → User dashboard interface for managing profile and user-specific content.
+
+cms-queue-email         → Extends CMS: When a post is created, sends a notification email using background queues.
+
+cms-deploy              → Deployment-ready version of the role-based CMS (for hosting on a live server).
